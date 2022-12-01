@@ -1,5 +1,6 @@
 #!/bin/bash
-echo ".gitignore" > .gitignore.txt
+echo ".gitignore
+./*/input.txt" > .gitignore.txt
 
 lines=
 $(for i in {0..9}; do
