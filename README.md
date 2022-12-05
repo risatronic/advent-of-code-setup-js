@@ -12,4 +12,4 @@ A script that will create sub-directories `dec01` through `dec25` in the directo
 ## Probable Updates
 - Include argument for sub-directory name to automate creating that
 - Run `git init` within the sub-directory
-- Include argument for extension or full name of starter file to make use for other languages easier
+- Include argument for extension and/or full name of starter/created files to make use for other languages easier
